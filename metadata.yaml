@@ -1,0 +1,28 @@
+_repo: A-Guide-to-the-Scientific-Knowledge-of-Things-Familiar_40652
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brewer, Ebenezer Cobham
+    alias: Brewer, E. Cobham (Ebenezer Cobham)
+    birthdate: 1810
+    deathdate: 1897
+    gutenberg_agent_id: '3978'
+    url: http://www.gutenberg.org/2009/agents/3978
+    wikipedia: http://en.wikipedia.org/wiki/Ebenezer_Cobham_Brewer
+description: pt. I. Heat -- pt. II. Air.
+gutenberg_issued: '2012-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science -- Juvenile literature'
+title: A Guide to the Scientific Knowledge of Things Familiar
+url: http://www.gutenberg.org/ebooks/40652
