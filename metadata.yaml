@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3978
     wikipedia: http://en.wikipedia.org/wiki/Ebenezer_Cobham_Brewer
 description: pt. I. Heat -- pt. II. Air.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40652#A-Guide-to-the-Scientific-Knowledge-of-Things-Familiar
 gutenberg_issued: '2012-09-03'
 gutenberg_type: Text
 identifiers:
